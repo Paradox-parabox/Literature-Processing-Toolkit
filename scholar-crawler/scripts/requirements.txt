@@ -1,0 +1,12 @@
+# Dependencies for Google Scholar Crawler
+scholarly>=1.7.9
+pandas>=2.0.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# Optional for proxy support
+fake-useragent>=1.4.0
+
+# BM25 relevance scoring
+rank_bm25>=0.2.2

@@ -1,0 +1,8 @@
+# 学术文献处理工具链依赖项
+semanticscholar>=0.6.0
+scholarly>=1.7.0
+pandas>=1.5.0
+requests>=2.28.0
+beautifulsoup4>=4.11.0
+rank-bm25>=0.2.0
+fake-useragent>=1.4.0
